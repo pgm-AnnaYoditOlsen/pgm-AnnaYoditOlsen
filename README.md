@@ -6,5 +6,5 @@ I am currently studying programming at Arteveldehogeschool.
 
 ---
 ### How to reach me ✉️
-[Linkedin](https://www.linkedin.com/in/anna-yodit-olsen-400b99250/)
-[Mail](olsenannayodit06@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/anna-yodit-olsen-400b99250/)
+- [Mail](olsenannayodit06@gmail.com)
